@@ -5,4 +5,5 @@ sky:
     port: 3306
     database: sky_take_out
     username: root
-    password: root
+    password: 958186143
+    validation-query: SELECT 1
